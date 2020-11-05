@@ -1,7 +1,8 @@
 # CCSKTraining
 Public Repository for CCSK Training<BR /><BR />
 <IMG SRC="https://github.com/bvoris/CCSKTraining/blob/main/ccsk.png"><BR /><BR />
-Content<BR />
+  
+Content<BR /><BR />
 CCSK Slide Deck Part 1<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
 <BR />
