@@ -12,11 +12,13 @@ Public Repository for CCSK Training<BR /><BR />
 ## Content
 CCSK Slide Deck Part 1<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
-<BR />
+<BR /><BR />
 CCSK Official Guide<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK-Guide.pdf
-<BR />
-
+<BR /><BR />
+Websites<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/Websites.txt
+<BR /><BR />
 
 
 ## Connect with me at
