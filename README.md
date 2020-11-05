@@ -1,5 +1,6 @@
 # CCSKTraining
-Public Repository for CCSK Training
+Public Repository for CCSK Training<BR />
+<CENTER><IMG SRC="https://github.com/bvoris/CCSKTraining/blob/main/ccsk.png"></CENTER>
 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/CCSKTraining">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/CCSKTraining">
