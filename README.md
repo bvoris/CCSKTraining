@@ -19,13 +19,15 @@ https://github.com/bvoris/CCSKTraining/blob/main/CCSK-Guide.pdf
 Cloud Security Alliance Official CCSK Preperation Guide<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/ccsk-intro-and-outline.pdf
 <BR /><BR />
-Websites<BR />
-https://github.com/bvoris/CCSKTraining/blob/main/Websites.txt
+Cloud Security Alliance Official Security Guidance for Critical Areas of Focus in Cloud Computing v 4.0<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/security-guidance-v4-FINAL.pdf
 <BR /><BR />
 Brad Voris CCSK Slide Deck Part 1<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
 <BR /><BR />
-
+Additional Training Websites<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/Websites.txt
+<BR /><BR />
 
 ## Connect with me at
 
