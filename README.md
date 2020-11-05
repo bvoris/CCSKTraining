@@ -10,9 +10,6 @@ Public Repository for CCSK Training<BR /><BR />
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/CCSKTraining">
  
 ## Content
-CCSK Slide Deck Part 1<BR />
-https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
-<BR /><BR />
 Cloud Security Alliance Official Read Me First CCSK Guide<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/read-me-first.pdf
 <BR /><BR />
@@ -24,6 +21,9 @@ https://github.com/bvoris/CCSKTraining/blob/main/ccsk-intro-and-outline.pdf
 <BR /><BR />
 Websites<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/Websites.txt
+<BR /><BR />
+Brad Voris CCSK Slide Deck Part 1<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
 <BR /><BR />
 
 
