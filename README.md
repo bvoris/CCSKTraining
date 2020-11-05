@@ -13,8 +13,11 @@ Public Repository for CCSK Training<BR /><BR />
 CCSK Slide Deck Part 1<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
 <BR /><BR />
-CCSK Official Guide<BR />
+Cloud Security Alliance Official CCSK Guide<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/CCSK-Guide.pdf
+<BR /><BR />
+Cloud Security Alliance Official CCSK Preperation Guide<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/ccsk-intro-and-outline.pdf
 <BR /><BR />
 Websites<BR />
 https://github.com/bvoris/CCSKTraining/blob/main/Websites.txt
