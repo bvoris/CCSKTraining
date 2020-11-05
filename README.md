@@ -1,6 +1,13 @@
 # CCSKTraining
-Public Repository for CCSK Training<BR />
-<CENTER><IMG SRC="https://github.com/bvoris/CCSKTraining/blob/main/ccsk.png"></CENTER>
+Public Repository for CCSK Training<BR /><BR />
+<IMG SRC="https://github.com/bvoris/CCSKTraining/blob/main/ccsk.png"><BR /><BR />
+Content<BR />
+CCSK Slide Deck Part 1<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/CCSK%20Slide%20Deck%20Part%201.pdf
+<BR />
+CCSK Official Guide<BR />
+https://github.com/bvoris/CCSKTraining/blob/main/CCSK-Guide.pdf
+<BR />
 
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/CCSKTraining">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/CCSKTraining">
